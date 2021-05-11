@@ -22,7 +22,7 @@
 		"console-error": "0.0.4",
 		"console-info": "0.0.5",
 		"console-warn": "0.0.4",
-		"jest": "^24.9.0",
+		"jest": "^26.6.3",
 		"node-fetch": "^2.6.1",
 		"whatwg-fetch": "^3.0.0"
 	}
